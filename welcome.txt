@@ -1,4 +1,0 @@
-
-hey this is my txt file
-hey this is my second commit
-hey this is my another commit
